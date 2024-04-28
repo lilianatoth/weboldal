@@ -27,3 +27,13 @@ h1 {
     text-align: center;
     padding: 5%;
 }
+
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: left;
+    font-size: 25px;
+}
