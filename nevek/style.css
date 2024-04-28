@@ -22,3 +22,8 @@ a {
 img {
     max-width: 40%;
 }
+
+h1 {
+    text-align: center;
+    padding: 5%;
+}
